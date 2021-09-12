@@ -954,6 +954,7 @@
 1shortlink.com
 1sponsor.com
 1st2nd.xyz
+1stepdownload.com
 1stpool.com
 1svy0vy.edvfwlacluo.com
 1tdscpamedia.xyz
@@ -3260,6 +3261,7 @@ a.91zhongkao.com
 a.aawp.de
 a.abnad.net
 a.acxiom.com
+a.ad.gt
 a.ad.gtrw9bj24c2j.s.ad6media.fr
 a.adgear.com
 a.adgrx.com
@@ -8505,6 +8507,7 @@ adservice.google.co.uk
 adservice.google.co.za
 adservice.google.com
 adservice.google.com.au
+adservice.google.com.bd
 adservice.google.com.kw
 adservice.google.com.mt
 adservice.google.com.tr
@@ -10800,6 +10803,7 @@ alltradesindustrial.855alltrades.com
 alluneed4home.net
 allure-ng.net
 allvegaspoker.com
+allvriallink24.xyz
 allwomens.ru
 ally.sh
 allyes.com
@@ -15040,6 +15044,7 @@ aus-mec-tracking.adalyser.com
 aus-smv-tracking.adalyser.com
 ausagauw.net
 ausc.iasds01.com
+auskunft.de
 ausoafab.net
 auspicealibis.com
 auspicionfr.fun
@@ -15593,6 +15598,7 @@ b.measuread.com
 b.medtronic.com
 b.mobigiftglobal.xyz
 b.monetate.net
+b.montangop.top
 b.netall.ru
 b.ns.edm.cmcm.com
 b.ns1p.net
@@ -16153,6 +16159,7 @@ banner.easyspace.com
 banner.eisys-bcs.jp
 banner.electronic4you.at
 banner.ero-advertising.com
+banner.eset.com
 banner.etargeting.mobifone.vn
 banner.europacasino.com
 banner.fyber.com
@@ -18436,6 +18443,7 @@ bluewaffle.com
 bluewhaleweb.com
 bluewindservice.com
 bluffrebuke.com
+bluffyporn.com
 bluhostedbanners.blucigs.com
 blulinknetwork.com
 blumen-allmann.de
@@ -24370,6 +24378,7 @@ coinwebmining.com
 coinworker.com
 coinzilla.io
 coinzillatag.com
+coiwqe.site
 cokeseeming.com
 cokz6dzzaxawzgang.ay.delivery
 col-med.com
@@ -28289,7 +28298,6 @@ data.alexa.com
 data.all-in.de
 data.appscomeon.com
 data.avid.com
-data.beop.io
 data.campaign.prenatal.com
 data.campaign.toyscenter.it
 data.caroda.io
@@ -34102,6 +34110,7 @@ etzxnqfew.com
 eu-ad.sam4m.com
 eu-adcenter.net
 eu-ads.adpone.com
+eu-adsrv.rtbsuperhub.com
 eu-analytics.sam4m.com
 eu-central-1.appodeal.com
 eu-central-1.onemobile.yahoo.com
@@ -38740,6 +38749,7 @@ get-ads.ru
 get-downloads.com
 get-express-vpn.com
 get-express-vpn.online
+get-express-vpn.xyz
 get-free-btc.000webhostapp.com
 get-me-wow.xyz
 get-media.co
@@ -41053,6 +41063,7 @@ haibunda.com
 haichengdzsp.com
 haicunoi.ro
 haidaocn.com
+haidongqing.top
 haig7anax.com
 hail-reporting.tutelatechnologies.com
 hailsserien.top
@@ -45009,7 +45020,6 @@ individuello.com
 indlzxgptf.com
 indmetric.rediff.com
 indo.autoads.asia
-indoads.xyz
 indoadsnet.com
 indoaviation.asia
 indobanner.com
@@ -46502,6 +46512,7 @@ isodhsd.pro
 isogoed.nl
 isohits.com
 isolationowen.com
+isondled.net
 isparkmedia.com
 ispeakvideo.ru
 ispedgoods.com
@@ -47883,6 +47894,7 @@ jsku.info
 jslog.krxd.net
 jslog.post.cz
 jslog.zapps.vn
+jsmcrptjmp.com
 jsmentry.com
 jsmjmp.com
 jsmpsi.com
@@ -48932,6 +48944,7 @@ king-contenido-prod.secure2.footprint.net
 king1212.ddns.net
 kingads.mobi
 kingalkylbe.fun
+kingbillycasino.com
 kingbtc.co
 kingdom-deals.com
 kingdom-news.com
@@ -49103,7 +49116,6 @@ klik-ntt.com
 klik.nrc.nl
 klik4a.me
 klik66.co
-klikabadi.net
 klikadvertising.com
 klikajadeh.com
 klikbonus.com
@@ -52647,6 +52659,7 @@ lp.adpushup.com
 lp.cooktracking.com
 lp.embarcadero.com
 lp.empire.goodgamestudios.com
+lp.interwetten.de
 lp.mydirtyhobby.com
 lp.ncdownloader.com
 lp.novanet.vn
@@ -55420,6 +55433,7 @@ media.aso.altapress.ru
 media.bidgear.com
 media.bidr.io
 media.brand.zing.vn
+media.camsoda.com
 media.carambo.la
 media.cmcm.com
 media.content.ad
@@ -58586,6 +58600,7 @@ mowyappedbibs.com
 moxielinks.com
 moyfoto.net
 moyka66.ru
+moymednogorsk.ru
 moytorrent.ru
 moyucubeshop.com
 moz-noticias.com
@@ -66674,6 +66689,7 @@ pivnayabiz.hldns.ru
 pivotrunner.com
 pivywopsu.com
 piwhaguvu.com
+piwik.bpb.de
 piwik.cam-content.com
 piwik.darken.eu
 piwik.datawrapper.de
@@ -69277,6 +69293,7 @@ prebid-cache-us-east.rubiconproject.com
 prebid-cache-us-west.rubiconproject.com
 prebid-cache.pub.network
 prebid-dev.reworldmediafactory.com
+prebid-eu.creativecdn.com
 prebid-lb.technoratimedia.com
 prebid-match.dotomi.com
 prebid-server-aws-ane1.rubiconproject.com
@@ -69310,6 +69327,7 @@ prebid.openx.net
 prebid.org
 prebid.pub.network
 prebid.s-onetag.com
+prebid.smilewanted.com
 precautionbuoy.com
 precios-buenos.com
 precisetackle.com
@@ -71034,6 +71052,7 @@ px.staticfiles.at
 px.trafficshop.com
 px.tvadsync.com
 px.ucweb.com
+px.vliplatform.com
 px.wp.pl
 px.za.zalo.me
 px.za.zaloapp.com
@@ -72474,6 +72493,7 @@ reachlocalservices.com
 reachmax-cm.admaster.com.cn
 reachmax.cn
 reachmode.com
+reachms.bfmio.com
 reachnova.com
 reachsocket.com
 reachsowraspberry.com
@@ -72741,6 +72761,7 @@ redcrossworld.com
 redd7liod.com
 reddeadtwo.com
 reddleops.pro
+reddlink.tech
 redeastbay.com
 redeemcodes.me
 redefine.hit.stat24.com
@@ -73381,6 +73402,7 @@ reporting.cdndex.io
 reporting.deliveryengine.adswizz.com
 reporting.handll.net
 reporting.otm-r.com
+reporting.powerad.ai
 reporting.singlefeed.com
 reporting.tapstream.com
 reporting.tutelatechnologies.com
@@ -73507,6 +73529,7 @@ resolutioncomplexionfinishing.com
 resolutionhomesales.com
 resolutionsbox.com
 resolvedweighpasswords.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 reson8.com
 resonance.pk
@@ -76935,6 +76958,7 @@ sdkfjxjertertry.com
 sdkgw.us1.twilio.com
 sdki.truepush.com
 sdkloc1.com
+sdklog.tvstore.opera.com
 sdkm.inmobi.com
 sdkm.w.ams1.avi.inmobi.com
 sdkm.w.inmobi.cn
@@ -85046,6 +85070,7 @@ sxjfhh.usatoday.com
 sxmutan.com
 sxmxpm.nectarsleep.com
 sxmyyx.com
+sxouyada.cn
 sxp.smartclip.net
 sxrgd.com
 sxtut.org
@@ -87138,6 +87163,7 @@ theoceanroomsbirmingham.com
 theodoibaochi.com
 theodorus-flo.com
 theonecdn.com
+theonlygames.com
 theonlygoodman.com
 theoremreach.com
 theotime.net
@@ -93123,6 +93149,7 @@ useconoming.club
 usedbreat.club
 usedirect.adsrvr.org
 useg.nextdigital.com.hk
+usegetmarketings.com
 useinsider.com
 useitbetter.com
 usejj.wangkl.com
@@ -93454,6 +93481,7 @@ v.shopify.com
 v.sindonews.tv
 v.ssacdn.com
 v.uc.cn
+v.vfgte.com
 v.vungle.com
 v.w-x.co
 v.wpimg.pl
@@ -95362,6 +95390,7 @@ vukhhjzd.com
 vukhnosiexl.com
 vuksoude.net
 vulcan.branch.io
+vulcanbets.pro
 vulkan.sitepopup
 vulkan1.netpopup
 vulnerabletan.com
@@ -96952,6 +96981,7 @@ wiki.flurry.com
 wiki.mgid.com
 wikia-ads.wikia.com
 wikia-beacon.com
+wikia-d.openx.net
 wikia-inc-com.videoplayerhub.com
 wikidevs.com
 wikihow-com.videoplayerhub.com
@@ -98157,6 +98187,7 @@ www.adoptim.com
 www.adotmob.com
 www.adotube.com
 www.adpeepshosted.com
+www.adpmbglobal.com
 www.adpmbtj.com
 www.adprotect.net
 www.adpushup.com
@@ -98192,6 +98223,7 @@ www.adserver.adtechus.com
 www.adserver.com
 www.adserver.janes.org
 www.adservice.google.com
+www.adservice.google.com.bd
 www.adskeeper.co.uk
 www.adskeeper.com
 www.adsmogo.net
@@ -98823,6 +98855,7 @@ www.devis-abri-de-piscine.fr
 www.devon38.plus.com
 www.dexchangegenius.com
 www.dexchangeinc.com
+www.dexpredict.com
 www.dfw1.vip.inmobi.com
 www.dgmaustralia.com
 www.diaita.ch
@@ -98973,6 +99006,7 @@ www.fanners.ero-advertising.com
 www.fantasyescortblogs.com
 www.fastclick.net
 www.fastcounter.de
+www.fastly-insights.com
 www.fastusersonline.com
 www.fata.ero-advertising.com
 www.fatrvclgpnb.com
@@ -100659,6 +100693,7 @@ www.vcm.jp
 www.ventanasyaluminios.com.mx
 www.venturead.com
 www.veritaspartners.co.jp
+www.veromoda.com
 www.vffvtxcykog.com
 www.viam.com.vn
 www.vibrantmedia.com
@@ -100833,6 +100868,7 @@ www.xiweywhnx.com
 www.xmeeting.com
 www.xml.adright.co
 www.xmlads.bid
+www.xmtrk.com
 www.xn--adspace-kvg.ero-advertising.com
 www.xpbbyiqbcawamy.com
 www.xtremeserve.xyz
@@ -101917,6 +101953,7 @@ xtjmmnjr.com
 xtmuasvldoiz.com
 xtop.me
 xtow.xyz
+xtpfhu.com
 xtr.carambo.la
 xtracker.logimeter.com
 xtrackme.com
@@ -102633,6 +102670,7 @@ yottos.com
 yotube.com
 you-cant-win.com
 you-hentai.com
+you-should-watch-this.website
 you6ka.cn
 youarepartofour.club
 youaresogay.com
