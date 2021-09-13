@@ -116,6 +116,7 @@ cfs.u-ad.info
 cfs.uzone.id
 cfs2.uadexchange.com
 cfs2.uzone.id
+chimpstatic.com
 ck.ads.oppomobile.com
 clck.yandex.ru
 click.oneplus.cn
@@ -368,3 +369,4 @@ www.x-tags.net
 x-tags.net
 yandexadexchange.net
 youtube.cleverads.vn
+zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
