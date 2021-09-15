@@ -171,6 +171,7 @@ freshmarketer.com
 g1.ads.oppomobile.com
 games.shopee.co.id
 ganon.yahoo.com
+geller-pa.googleapis.com
 gemini.yahoo.com
 geo.query.yahoo.com
 geo.yahoo.com
