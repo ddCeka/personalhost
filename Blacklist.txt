@@ -197,6 +197,7 @@ in.appcenter.ms
 informer.yandex.ru
 intent.techadvisor.com
 internetpositif.uzone.id
+ip.taobao.com
 it.advertising.yahoo.com
 jmd.kompas.com
 js.digiads.co.id
@@ -323,6 +324,7 @@ tracking.india.miui.com
 tracking.intl.miui.com
 tracking.miui.com
 tracking.rus.miui.com
+trk.ipaddress.com
 trk.pinterest.com
 u-ad.info
 uadexchange.com
@@ -344,10 +346,12 @@ vjs.zencdn.net
 w1.luckyorange.com
 weather.1plus.io
 welcome.indihome.co.id
+wh.ipaddress.com
 www-googleadservices.l.google.com
 www-googletagservices.l.google.com
 www.adgoogle.net
 www.admobclick.com
+www.aonpnndg.com
 www.cdn.ad.xiaomi.com
 www.digiads.co.id
 www.google-analytics.com
@@ -357,6 +361,7 @@ www.googleanalytics.com
 www.googletagmanager.com
 www.googletagservices.com
 www.mncshop.com
+www.mujnmhmfhrubzq.com
 www.notifa.info
 www.rctiplus.com
 www.u-ad.info
