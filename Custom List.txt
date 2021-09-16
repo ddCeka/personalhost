@@ -13311,7 +13311,6 @@ api.lapresse.adgear.com
 api.leadiacloud.com
 api.leadpages.io
 api.leanplum.com
-api.liketech.tech
 api.limbik.com
 api.livefyre.com
 api.livejasmin.com
@@ -13388,7 +13387,6 @@ api.platform.letv.com
 api.poll.aiseet.atianqi.com
 api.popin.cc
 api.postscript.io
-api.pr.weixin.qq.com
 api.primecaster.net
 api.prod.notifier.manycomponents.com
 api.prooffactor.com
@@ -21930,7 +21928,6 @@ cdn.optimizely.com
 cdn.optimizely.com.edgekey.net
 cdn.optmd.com
 cdn.otherlevels.com
-cdn.outfit7.com
 cdn.owebanalytics.com
 cdn.p-n.io
 cdn.panelbear.com
@@ -24365,7 +24362,6 @@ cnnglobal.122.2o7.net
 cnnindonesia.com
 cnnireport.122.2o7.net
 cnnnew.com
-cnnxxi.com
 cnnxxi21.com
 cnnywz.cn
 cnocanoecaprod.112.2o7.net
@@ -26415,6 +26411,7 @@ couptoug.net
 couragetea.com
 courchevel-chalet.ovh
 courselfnorter.site
+coursevania.com
 court.es
 courtneyjones.ac.ug
 courtroomprobe.com
@@ -30724,7 +30721,6 @@ dns-direct.net
 dns-info.dyndns.pro
 dns-upload.com
 dns.0pengl.com
-dns.google.com
 dns.m.sm.cn
 dns.union.uc.cn
 dns.ximalaya.com
@@ -42548,9 +42544,6 @@ hits.webstat.com
 hits.zdnet.co.kr
 hits2u.com
 hits4me.com
-hitsbola.com
-hitsbola.icu
-hitsbola.id
 hitserver.ibope.com.br
 hitslap.com
 hitslink.com
@@ -46405,6 +46398,7 @@ ip.nuggad.net
 ip.pichunter.com
 ip.pr-cy.hacklix.com
 ip.ro
+ip.taobao.com
 ip1.ads.stickyadstv.com.akadns.net
 ip1.cdn.stickyadstv.com.akadns.net
 ip101.ip-51-75-58.eu
@@ -61830,6 +61824,7 @@ notification-centar.com
 notification-list.com
 notification.best
 notification.lionmobi.com
+notification.tubecup.net
 notification.webengage.com
 notificationallow.com
 notificationclick.ir
@@ -62930,7 +62925,6 @@ oconner.biz
 oconner.link
 ocs.websponsors.com
 ocsp.g.applimg.com
-ocsp2.apple.com
 ocsp2.g.applimg.com
 ocstudio.tv
 oct-pass.net
@@ -64895,6 +64889,7 @@ p.tencentmind.com
 p.trafficfabrik.com
 p.ttwitter.com
 p.tvpixel.com
+p.typekit.net
 p.typekit.net-v3.edgekey.net
 p.versacommerce.de
 p.victoria.dev
@@ -68917,6 +68912,7 @@ pojok6.id
 pojokntb.id
 pojrem.ru
 pojulo.com
+pok.rayjump.com
 poker24x7.com
 poker338a.com
 poker4ever.com
@@ -70035,6 +70031,7 @@ prod-m-node-1111.ssp.advertising.com
 prod-m-node-1112.nexage.com
 prod-m-node-1211.ssp.advertising.com
 prod-m-node-1212.nexage.com
+prod-m-node-2111.ssp.advertising.com
 prod-m-node-2112.nexage.com
 prod-m-node-3111.ssp.advertising.com
 prod-m-node-3112.nexage.com
@@ -71867,6 +71864,7 @@ qrcvlmxqu.com
 qreenmaple.com
 qregation.info
 qreport.qunar.com
+qrextechnologies.com
 qrezvwhtppiv.com
 qrhlgdak.cn
 qrindfqrd.com
@@ -77208,6 +77206,7 @@ sdk-cdn.optimove.net
 sdk-conf.getui.com
 sdk-configuration.gimbal.com
 sdk-controller.widespace.com
+sdk-events.inner-active.mobi
 sdk-globalconfig.aiclk.com
 sdk-hb-cfg.smaato.net
 sdk-info.gimbal.com
@@ -84630,6 +84629,7 @@ stuffedprofessional.com
 stugorezu.com
 stuiop.com
 stumbledabetsuburb.com
+stumps-analytics.firebaseio.com
 stumtererum.com
 stuneoapp.page.link
 stunight.com
@@ -85129,6 +85129,7 @@ surge.systems
 surgeprice.com
 surgicalexpectingdecisive.com
 suriwl.petsmart.com
+suriyecastajanslari.bykmedya.com
 surkiffee.xyz
 surmountguardianbosom.com
 surpluspilotage.com
@@ -91503,6 +91504,7 @@ triadfreewaysupermarket.com
 triadmedianetwork.com
 trial.tercept.com
 trial4eset.com
+trialmr.com.ar
 trialvariable.net
 trianglerank.net
 trib.al
@@ -91636,6 +91638,7 @@ trk.in25app.com
 trk.indoleads.com
 trk.informationweek.com
 trk.iotworldtoday.com
+trk.ipaddress.com
 trk.itprotoday.com
 trk.kissmetrics.com
 trk.klclick2.com
@@ -92928,7 +92931,6 @@ unfitsickle.com
 unflesholchi.com
 unfurlyawweed.casa
 ungstlateriag.club
-unibetplay.com
 unicaondemand.com
 unicast.com
 unicefworld12.ovh
@@ -97070,6 +97072,7 @@ wgsas.com
 wgwguxqij.com
 wgwrp7yv.ru
 wgxuexjrvo.com
+wh.ipaddress.com
 wh.kissmetrics.com
 whackaggressive.com
 whackmaturityclosure.com
@@ -97191,7 +97194,6 @@ whjibbprhng.com
 whkesznbi.com
 whmhdz.xyz
 whoaftfawn.casa
-whoami.akamai.net
 whoami.sophi.io
 whoaremyfriends.com
 whoaremyfriends.net
@@ -100105,6 +100107,7 @@ www.mshelp247.weebly.com
 www.msnsports.com
 www.mtree.com
 www.mueller-holz-bau.com
+www.mujnmhmfhrubzq.com
 www.mx.ero-advertising.com
 www.mxtzwvylpjcoq.com
 www.my-stats.com
@@ -102334,6 +102337,7 @@ xr117.xyz
 xray.jebe.renren.com
 xray.mail.ru
 xrbmomiow.com
+xre.popmonster.ru
 xrea.com
 xrhobrrgwhtlu.com
 xrldobjttlwsixfyxote.com
