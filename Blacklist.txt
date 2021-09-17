@@ -234,6 +234,7 @@ li1432-193.members.linode.com
 log.fc.yahoo.com
 log.pinterest.com
 log.r2b2.io
+log.reyun.com
 logbak.hicloud.com
 login.xing.com
 logo.clearbit.com
