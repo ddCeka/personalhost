@@ -706,6 +706,7 @@ rtb.persona.ly
 rtb.platform.glispa.com
 rv-gateway.supersonicads.com
 s.mobclix.com
+s.youtube.com
 s4m.io
 sa.api.intl.miui.com
 sam4m.com
