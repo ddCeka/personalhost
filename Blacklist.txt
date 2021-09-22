@@ -647,6 +647,7 @@ pagead3.googlesyndication.com
 pagead3.l.doubleclick.net
 pagead46.googleadservices.com
 pagead46.googlesyndication.com
+parlaygoal.com
 partner-service.link
 partnerads.ysm.yahoo.com
 partners.fxoro.com
@@ -934,6 +935,7 @@ www.mncshop.com
 www.mujnmhmfhrubzq.com
 www.notifa.info
 www.odnoklassniki.ru
+www.parlaygoal.com
 www.ragazzeinvendita.com
 www.rctiplus.com
 www.share-online.biz
