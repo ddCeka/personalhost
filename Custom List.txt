@@ -12908,6 +12908,7 @@ c2i.startappnetwork.com
 c2s.startappnetwork.com
 c3.gostats.vn
 c3.myapkcdn.in
+c303.pw
 c3h5cae95p.ru
 c3metrics.com
 c3metrics.medifast1.com
@@ -27906,7 +27907,6 @@ idianfang.com
 idio.co
 idjplay.surf
 idkeyword.com
-idlix.cc
 idnch.cc
 idntfy.ru
 idntimes.com
@@ -32144,6 +32144,7 @@ laolinow.com
 laoliulaoliu.com
 laorncp.xyz
 lapak-online.net
+lapakfilm.net
 lapakinfo.net
 lapakita.ru
 lapatiya.info
@@ -39372,6 +39373,7 @@ ni87.com
 niaagentl.top
 niagahoster.co.id
 niajmtjqexq.co
+niangaoxiansheng.com
 nibagsukpgndj.com
 nibzitgas.com
 nicanor-the.com
@@ -47258,6 +47260,7 @@ rmgserving.com
 rmkflouh.com
 rmlehtrdzfyonb.com
 rmol.co
+rmol.id
 rmqunan.com
 rmraos.com
 rmtag.com
@@ -59150,6 +59153,7 @@ tuyendung.mediaz.vn
 tuykfa.ivrose.com
 tv-ads.ru
 tv-best.net
+tv.kaskus.co.id
 tv.zombie-tv.org
 tv1s4d6klh4n.com
 tv2.hb-api.omtrdc.net
@@ -59316,7 +59320,6 @@ u1n6ok.cn
 u1trkqf.com
 u1tshop.ru
 u21drwj6mp.com
-u21drwj6mp.comscriptpopup,domainymp4.download
 u26u.com
 u29qnuav3i6p.com
 u2bmco.com
@@ -60731,7 +60734,6 @@ video.adsparc.com
 video.begun.ru
 video.flashiest-vacation.win
 video.fyber.com
-video.grid.id
 video.lavanetwork.net
 video.market-place.su
 video.oms.eu
