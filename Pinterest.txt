@@ -24,6 +24,7 @@ pinimg.com
 pinterest.com
 post.pinterest.com
 prod.pinterest.global.map.fastly.net
+s-media-cache-ak0.pinimg.com
 s-passets.pinimg.com
 s-pinimg-com.gslb.pinterest.com
 s.pinimg.com
