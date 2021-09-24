@@ -48,6 +48,7 @@ adjust.com
 adlibr.com
 adm.dynamicyield.com
 admixer.co.kr
+admobclick.com
 adnxs.com
 adproxy.fyber.com
 ads-twitter.com
@@ -422,8 +423,14 @@ go.admost.com
 go.markets.com
 google-analytics.com
 google-analytics.l.google.com
+googleadapis.l.google.com
 googleads.com
 googleads.g.doubleclick.net
+googleadservices.com
+googleanalytics.com
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
 grade.market.yandex.ru
 graph.accountkit.com
 grid.amap.com
@@ -538,6 +545,7 @@ m2m-api.inmarket.com
 m5.amap.com
 mab.data.tm-awx.com
 mads.amazon-adsystem.com
+mail-ads.google.com
 majalah.tempo.co
 management.azure.com
 manifest.localytics.com
@@ -637,8 +645,10 @@ p02.notifa.info
 p03.notifa.info
 p04.notifa.info
 p05.notifa.info
+pagead-googlehosted.l.google.com
 pagead.googleadservices.com
 pagead.googlesyndication.com
+pagead.l.doubleclick.net
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead2.l.doubleclick.net
@@ -647,6 +657,7 @@ pagead3.googlesyndication.com
 pagead3.l.doubleclick.net
 pagead46.googleadservices.com
 pagead46.googlesyndication.com
+pagead46.l.doubleclick.net
 parlaygoal.com
 partner-service.link
 partnerads.ysm.yahoo.com
@@ -707,6 +718,9 @@ rtb.platform.glispa.com
 rv-gateway.supersonicads.com
 s.mobclix.com
 s.youtube.com
+s0-2mdn-net.l.google.com
+s1-2mdn-net.l.google.com
+s2-2mdn-net.l.google.com
 s4m.io
 sa.api.intl.miui.com
 sam4m.com
@@ -746,6 +760,7 @@ secure.eveonline.com
 secure.hostgator.com
 secure.starsaffiliateclub.com
 securemetrics.apple.com
+securepubads.g.doubleclick.net
 segment.com
 sejs.moatads.com
 service.fyber.com
@@ -779,6 +794,7 @@ soma.smaato.net
 sonicnotify.com
 soom.la
 sp.analytics.yahoo.com
+ssl-google-analytics.l.google.com
 ssl.google-analytics.com
 ssl.googleanalytics.com
 ssl.p.jwpcdn.com
@@ -789,6 +805,7 @@ startappservice.com
 startup.mobile.yandex.net
 stat.xiaomi.com
 static.ads-twitter.com
+static.doubleclick.net
 static.hotjar.com
 static.media.net
 static.mozo.com.au
@@ -835,6 +852,7 @@ tiqcdn.com
 tknet.rayjump.com
 tm.amap.com
 tmk.smartadserver.com
+tpc.googlesyndication.com
 track.adform.net
 track.fiverr.com
 tracker-api.my.com
@@ -880,6 +898,7 @@ vast.cloudmobi.net
 vectaury.io
 video-ads.rubiconproject.com
 video-interstitial-assets-cdn.fyber.com
+video-stats.l.google.com
 video.fyber.com
 videos-fms.jwpsrv.com
 visit.webhosting.yahoo.com
@@ -904,7 +923,9 @@ wootric.com.herokudns.com
 ws.otherlevels.com
 ww38.latestdownloads.net
 ww38.usearchmedia.com
+www-google-analytics.l.google.com
 www-googleadservices.l.google.com
+www-googletagmanager.l.google.com
 www-googletagservices.l.google.com
 www.123-reg.co.uk
 www.adgoogle.net
@@ -968,4 +989,3 @@ yts.moatads.com
 yuntuapi.amap.com
 z.moatads.com
 zapr.in
-zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
