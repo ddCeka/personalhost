@@ -376,13 +376,11 @@ events.startappservice.com
 events.uber.com
 events3alt.adcolony.com
 evt.tamoco.com
-exacttarget.
 exp.glispa.com
 expose.uzone.id
 extmaps-api.yandex.net
 f.shopee.co.id
 fastlane.rubiconproject.com
-fidzup
 files.adform.net
 firebase-settings.crashlytics.com
 firebase.com
