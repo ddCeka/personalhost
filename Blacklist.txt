@@ -64,6 +64,7 @@ ads.mdotm.com
 ads.mobclix.com
 ads.pinterest.com
 ads.planetwin365affiliate.com
+ads.pro-market.net
 ads.pubmatic.com
 ads.reddit.com
 ads.rubiconproject.com
@@ -94,6 +95,7 @@ adx.adform.net
 adx.ads.oppomobile.com
 affiliate.coral.co.uk
 affiliate.geekbuying.com
+agpzbb.tdum.alibaba.com
 akamai.smartadserver.com
 akamai.vungle-cdn.vungle.com
 aktrack.pubmatic.com
@@ -168,6 +170,7 @@ appwall.api.airpush.com
 apx.moatads.com
 ar.umeng.com
 areametrics.com
+arms-retcode-sg.aliyuncs.com
 assoc-amazon.com
 ata-ads.realmemobile.com
 ati-host.net
@@ -213,9 +216,11 @@ business.samsungusa.com
 c.adtwirl.com
 c.amazon-adsystem.com
 c.w.inmobi.com
+c1.microsoft.com
 c27.smaato.net
 c2i.startappnetwork.com
 c2s.startappnetwork.com
+cc-api-data.adobe.io
 cc.naver.jp
 cdn-adn.rayjump.com
 cdn-api.admost.com
@@ -252,6 +257,7 @@ cdnstatic.detik.com
 cdnv.detik.net.id
 cedexis-radar.net
 cedexis.com
+cf.aliyun.com
 cfs.u-ad.info
 cfs.uzone.id
 cfs2.uadexchange.com
@@ -311,6 +317,7 @@ d31qbv1cthcecs.cloudfront.net
 d3c3tktxbub3yt.cloudfront.net
 d3w2id5zlqvvik.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
+d9wl1v.tdum.alibaba.com
 das.uadexchange.com
 data-location.enhance.co
 data.ads.oppomobile.com
@@ -354,6 +361,7 @@ dmtry.com
 doubleclick.com
 doubleclick.net
 dov-e.com
+dpm.demdex.net
 dsp.persona.ly
 dts.startappservice.com
 duapps.com
@@ -375,15 +383,18 @@ events.redditmedia.com
 events.startappservice.com
 events.uber.com
 events3alt.adcolony.com
+evt.mxplay.com
 evt.tamoco.com
 exp.glispa.com
 expose.uzone.id
 extmaps-api.yandex.net
 f.shopee.co.id
 fastlane.rubiconproject.com
+filebroker-s.slatic.net
 files.adform.net
 firebase-settings.crashlytics.com
 firebase.com
+firebaselogging-pa.googleapis.com
 fk-mtrack.rayjump.com
 flurry.com
 food.uzone.id
@@ -446,8 +457,10 @@ hypertrack.amazonaws.com
 hyprmx.com
 i.4see.mobi
 i.l.inmobicdn.net
+i.mxplayer.j2inter.com
 i.w.inmobi.com
 iasds01.com
+id-live-05.slatic.net
 id.google.co.id
 id.google.com
 id.l.google.com
@@ -512,6 +525,8 @@ lahanpoker.gold
 landing.parkplatzkartei.com
 langganan.tempo.co
 latam.adspecs.yahoo.com
+laz-g-cdn.alicdn.com
+laz-img-cdn.alicdn.com
 lbs.amap.com
 leanplum.com
 li1432-193.members.linode.com
@@ -708,12 +723,14 @@ report.appmetrica.yandex.net
 req.startappservice.com
 rereddit.com
 restapi.amap.com
+retcode-sg-lazada.arms.aliyuncs.com
 rich.otherlevels.com
 rs-stripe.wsj.com
 rtb-csync.smartadserver.com
 rtb.persona.ly
 rtb.platform.glispa.com
 rv-gateway.supersonicads.com
+s.lazada.co.id
 s.mobclix.com
 s.youtube.com
 s0-2mdn-net.l.google.com
@@ -756,6 +773,7 @@ secure.bmtmicro.com
 secure.cbdpure.com
 secure.eveonline.com
 secure.hostgator.com
+secure.quantserve.com
 secure.starsaffiliateclub.com
 securemetrics.apple.com
 securepubads.g.doubleclick.net
@@ -767,6 +785,7 @@ serving-sys.com
 sessions.bugsnag.com
 setting.rayjump.com
 settings.luckyorange.net
+sg-live-05.slatic.net
 sg-mtrack.rayjump.com
 sg.rayjump.com
 sg01.rayjump.com
@@ -830,6 +849,7 @@ syndication.twitter.com
 sypi.gpshopper.com
 taboola.com
 tag-mediation.supersonic.com
+tag.crsspxl.com
 tagcommander.com
 tags.bluekai.com
 tags.otherlevels.com
@@ -873,6 +893,7 @@ uadexchange.com
 udc.yahoo.com
 uk.advertising.yahoo.com
 umeng.com
+umlazada.alibaba.com
 unagi.amazon.com
 uop.umeng.com
 upload.luckyorange.net
@@ -915,9 +936,12 @@ webview.unityads.unity3d.com
 welcome.indihome.co.id
 wh.ipaddress.com
 widespace.com
+widget.pushbullet.com
 widget.whatsbroadcast.com
+widgets.outbrain.com
 wootric.com
 wootric.com.herokudns.com
+wowcalmnessdumb.com
 ws.otherlevels.com
 ww38.latestdownloads.net
 ww38.usearchmedia.com
