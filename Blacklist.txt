@@ -1,4 +1,4 @@
- 0.0.0.0 19534.redirect.appmetrica.yandex.com
+0.0.0.0 19534.redirect.appmetrica.yandex.com
 0.0.0.0 247realmedia.com
 0.0.0.0 2mdn.net
 0.0.0.0 3.redirect.appmetrica.yandex.com
@@ -604,6 +604,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-sdk-resources.jumio.com
 0.0.0.0 mobile.mng-ads.com
+0.0.0.0 mobile.useinsider.com
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileapptracking.com
@@ -707,6 +708,7 @@
 0.0.0.0 px.moatads.com
 0.0.0.0 pyze.com
 0.0.0.0 qualtrics.com
+0.0.0.0 qua-telkomsel-dap.timwe.com
 0.0.0.0 quantcast.com
 0.0.0.0 quantcast.net
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
