@@ -51,6 +51,10 @@ https://raw.githubusercontent.com/ddCeka/personalhost/master/Pinterest.txt
 ```
 https://raw.githubusercontent.com/ddCeka/personalhost/master/Pornography.txt
 ```
+- Redirect
+```
+https://raw.githubusercontent.com/ddCeka/personalhost/master/Redirect.txt
+```
 - Social Media
 ```
 https://raw.githubusercontent.com/ddCeka/personalhost/master/Social%20Media.txt
