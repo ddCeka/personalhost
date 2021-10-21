@@ -931,7 +931,6 @@
 0.0.0.0 wap4ads.com
 0.0.0.0 wb.amap.com
 0.0.0.0 wd.adcolony.com
-0.0.0.0 weather.1plus.io
 0.0.0.0 weborama.fr
 0.0.0.0 weborama.net
 0.0.0.0 webtrends.com
