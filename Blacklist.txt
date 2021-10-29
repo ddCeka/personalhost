@@ -3320,3 +3320,6 @@
 0.0.0.0 app.adjust.net.in
 0.0.0.0 target.microsoft.com
 0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 o259296.ingest.sentry.io
+0.0.0.0 alb.reddit.com
+0.0.0.0 d335luupugsy2.cloudfront.net
