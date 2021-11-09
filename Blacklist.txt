@@ -3324,3 +3324,6 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 d335luupugsy2.cloudfront.net
 0.0.0.0 www.tiktok.com
+0.0.0.0 cafemedia-com.videoplayerhub.com
+0.0.0.0 eventgateway.soundcloud.com
+0.0.0.0 cdn.geni.us
