@@ -3327,3 +3327,11 @@
 0.0.0.0 cafemedia-com.videoplayerhub.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 cdn.geni.us
+0.0.0.0 services.fandom.com
+0.0.0.0 ibhxmxuwb.xyz
+0.0.0.0 toonoost.net
+0.0.0.0 awnxcexsy.xyz
+0.0.0.0 cdn.feedify.net
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 a.vdo.ai
+0.0.0.0 9to5mac-com.videoplayerhub.com
