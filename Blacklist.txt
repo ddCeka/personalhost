@@ -3335,3 +3335,8 @@
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 a.vdo.ai
 0.0.0.0 9to5mac-com.videoplayerhub.com
+0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 matomo.darken.eu
+0.0.0.0 d3p8w7to4066sy.cloudfront.net
+0.0.0.0 d3e54v103j8qbb.cloudfront.net
+0.0.0.0 api.weathercn.com
