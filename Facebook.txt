@@ -934,6 +934,7 @@ b-www.facebook.com
 b.beta.facebook.net
 b.ns.facebook.com
 b.ns.t.facebook.net
+b.s-static.ak.facebook.com
 b.static.ak.facebook.com
 b.static.ak.fbcdn.net
 ba.i.org
